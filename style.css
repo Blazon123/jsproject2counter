@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+margin: 250px;
+padding-left: 300px;
+}
+.container h1{
+    margin: 50px;
+}
+#value{
+    margin: 100px;
+    font-size: 55px;
+    font-weight: bolder;
+    /* margin-top: 500px; */
+
+}
+.button-container{
+display: flex;
+gap: 12px;
+padding: 10px;
+}
+
+.button-container button{
+    padding: 5px;
+    border-radius: 5px;
+    font-size: 12px;
+}
